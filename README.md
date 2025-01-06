@@ -1,7 +1,12 @@
 # BookBot
-BookBot is my first project!
 
 A Python program that analyzes text files and provides word statistics.
+BookBot is my first project!
+
+## Prerequisites
+
+* Python 3.x
+* Git
 
 ## Setup Instructions
 
